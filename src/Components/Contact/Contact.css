@@ -1,5 +1,5 @@
 .c-container{
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .c-container>div{
@@ -8,6 +8,7 @@
 
 .c-right{
     width: 100%;
+    justify-content: center;
 }
 
 .c-left{
